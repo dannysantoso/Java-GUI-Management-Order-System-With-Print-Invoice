@@ -1,4 +1,4 @@
-# Java-Internal-Management-Order
+# management-order-system
 
 How to run the application:
 1. Open the file in IDE or run bakerystore.jar
