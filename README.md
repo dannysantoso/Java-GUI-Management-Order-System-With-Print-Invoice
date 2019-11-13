@@ -7,5 +7,7 @@ How to run the application:
 4. if there is an error connecting to the database, maybe JDBC needs to be reconfigured in the build-path (remove the old mysql connector with the new mysql connector)
 5. if you want to login to the system, you need to open the database and choose admin table to see email and password for login purpose
 
+ask me if you have some question
+
 Thanks
 Created by Danny Santoso
